@@ -1,1 +1,3 @@
 # FirebaseIOS
+
+Pods comprimidos.
